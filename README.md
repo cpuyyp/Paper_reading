@@ -8,7 +8,7 @@ For self use.
 - [ ] 2. [Text Clustering for Digital Forensics Analysis](https://pdfs.semanticscholar.org/3b07/b143e7a8f1f4eeb8aac56be7ef4e372c5314.pdf) - 2/18/2018 -  [summary](summaries/Text_Clustering_for_Digital_Forensics_Analysis.md)
 - [ ] 3. [A Methodology for Cyber Crime Identification using Email Corpus based on Gaussian Mixture Model]()
 - [ ] 4. [Bulk Email Forensics]()
-- [ ] 5. [Classification of Instant Messaging Communications for Forensics Analysis](summaries/Classification of Instant Messaging Communications for Forensics Analysis.md)
+- [ ] 5. [Classification of Instant Messaging Communications for Forensics Analysis](summaries/Classification_of_Instant_Messaging_Communications_for_Forensics_Analysis.md)
 
 ### For courses
 
