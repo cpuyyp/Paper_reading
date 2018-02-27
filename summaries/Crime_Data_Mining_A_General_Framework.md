@@ -25,4 +25,5 @@ Examples:
  3. use neural network to predict the most likely type
 - Deceptive-identity detection
 - Criminal-network analysis
-![criminal--network analysis](summaries/picture/Picture1.jpg)
+![criminal--network analysis](picture/Picture1.jpg)
+In this figure, circles represent subgroups with their leaders name. Circle’s size is proportional to the number of members. Thickness of straight lines connecting circles indicates the strength of relationships between groups.
