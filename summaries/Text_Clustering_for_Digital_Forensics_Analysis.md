@@ -8,3 +8,6 @@ two-steps investigative process is proposed, based on
  - textual information extraction
 - textual data analysis via clustering-based text mining tools.
  - tools: commercial: Guidance Encase, Access Data Forensic Toolkit(FTK). open-source: Sleuthkit / Authopsy.
+## Core Idea  
+
+ to be continue
