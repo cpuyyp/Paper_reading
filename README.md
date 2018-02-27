@@ -16,7 +16,13 @@ Summary: Future work may focus on recover permanently deleted emails on online s
 6. Bulk Email Forensics
 7. Classification of Instant Messaging Communications for Forensics Analysis
 
+### Popular deep learning papers
+1. β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
+2. Mastering the game of Go with deep neural networks and tree search - 11/20/2017
+3. Mastering the game of Go without human knowledge - 11/20/2017
+
 
 ### For courses
+Uncertainty Analysis in Spring 2018: *Uncertainty: A Guide to Dealing with Uncertainty*
 
 ## Experiments
