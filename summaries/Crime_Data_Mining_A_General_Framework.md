@@ -25,4 +25,4 @@ Examples:
  3. use neural network to predict the most likely type
 - Deceptive-identity detection
 - Criminal-network analysis
-![criminal--network analysis](summaries/Picture1.jpg)
+![criminal--network analysis](summaries/picture/Picture1.jpg)
